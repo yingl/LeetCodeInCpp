@@ -15,11 +15,12 @@ public:
       while (start < end) {
         int left_val = num[start];
         int right_val = num[end];
+        int sum = pre_number + left_val + right_val;
 
-        if ((num[i] + left_val + right_val) < 0) {
+        if (sum < 0) {
           ++start;
         }
-        else if ((num[i] + left_val + right_val) > 0) {
+        else if (sum > 0) {
           --end;
         }
         else {
