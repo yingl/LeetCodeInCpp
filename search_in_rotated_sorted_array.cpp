@@ -25,15 +25,15 @@ public:
     }
   }
 
-  int binary_search(int array[], int target, int start, int end) {
+  int binary_search(int array[], int start, int end, int target) {
     while (start <= end) {
       int mid = (start + end) / 2;
 
       if (array[mid] < target) {
-        return binary_search(array, target, mid + 1, end);
+        start = mid + 1;
       }
       else if (array[mid] > target) {
-        return binary_search(array, target, start, mid - 1);
+        end = mid - 1;
       }
       else {
         return mid;
@@ -46,16 +46,16 @@ public:
   int search(int A[], int n, int target) {
     // 处理顺序和只有一个元素的情况
     if (A[0] <= A[n - 1]) {
-      return binary_search(A, target, 0, n - 1);
+      return binary_search(A, 0, n - 1, target);
     }
 
     int pivotal = find_pivotal(A, 0, n - 1);
 
     if (target >= A[0]) {
-      return binary_search(A, target, 0, pivotal - 1);
+      return binary_search(A, 0, pivotal - 1, target);
     }
     else {
-      return binary_search(A, target, pivotal, n - 1);
+      return binary_search(A, pivotal, n - 1, target);
     }
   }
 };
