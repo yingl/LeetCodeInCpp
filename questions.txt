@@ -28,9 +28,9 @@ Todo
   Valid Palindrome
   Binary Tree Maximum Path Sum
   Best Time to Buy and Sell Stock III
-  Best Time to Buy and Sell Stock II
 
 Finished:
+  122. Best Time to Buy and Sell Stock II
   121. Best Time to Buy and Sell Stock
   120. Triangle
   119. Pascal's Triangle II
