@@ -38,9 +38,9 @@ Todo
   Distinct Subsequences
   Flatten Binary Tree to Linked List
   Path Sum II
-  Path Sum
 
 Finished:
+  112: Path Sum
   111: Minimum Depth of Binary Tree
   110. Balanced Binary Tree
   109. Convert Sorted List to Binary Search Tree
