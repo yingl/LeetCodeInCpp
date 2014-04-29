@@ -32,9 +32,9 @@ Todo
   Best Time to Buy and Sell Stock
   Triangle
   Pascal's Triangle II
-  Pascal's Triangle
 
 Finished:
+  118. Pascal's Triangle
   117. Populating Next Right Pointers in Each Node II
   116. Populating Next Right Pointers in Each Node
   115. Distinct Subsequences
