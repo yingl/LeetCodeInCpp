@@ -34,9 +34,9 @@ Todo
   Pascal's Triangle II
   Pascal's Triangle
   Populating Next Right Pointers in Each Node II
-  Populating Next Right Pointers in Each Node
 
 Finished:
+  116. Populating Next Right Pointers in Each Node
   115. Distinct Subsequences
   114. Flatten Binary Tree to Linked List
   113. Path Sum II
