@@ -24,9 +24,9 @@ Todo
   Sum Root to Leaf Numbers
   Longest Consecutive Sequence
   Word Ladder II
-  Word Ladder
 
 Finished:
+  126. Word Ladder
   125. Valid Palindrome
   124. Binary Tree Maximum Path Sum
   123. Best Time to Buy and Sell Stock III
