@@ -26,9 +26,9 @@ Todo
   Word Ladder II
   Word Ladder
   Valid Palindrome
-  Binary Tree Maximum Path Sum
 
 Finished:
+  124. Binary Tree Maximum Path Sum
   123. Best Time to Buy and Sell Stock III
   122. Best Time to Buy and Sell Stock II
   121. Best Time to Buy and Sell Stock
