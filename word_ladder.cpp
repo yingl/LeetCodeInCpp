@@ -5,15 +5,15 @@ public:
     int len = 1;
     int curr = 0;
     int next = 1;
-    queue<string> ladders[2];
+    queue<string> queues[2];
 
-    ladders[curr].push(start);
+    queues[curr].push(start);
 
-    while ((dict.size() > 0) && (!ladders[curr].empty())) {
-      while (!ladders[curr].empty()) {
-        string str(ladders[curr].front());
+    while (!queues[curr].empty()) {
+      while (!queues[curr].empty()) {
+        string str(queues[curr].front());
 
-        ladders[curr].pop();
+        queues[curr].pop();
 
         for (int i = 0; i < str.size(); ++i) {
           for (char c = 'a'; c <= 'z'; ++c) {
@@ -30,7 +30,7 @@ public:
             }
             else {
               if (dict.count(str) > 0) {
-                ladders[next].push(str);
+                queues[next].push(str);
                 dict.erase(str);
               }
             }
