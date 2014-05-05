@@ -21,9 +21,9 @@ Todo
   Palindrome Partitioning II
   Palindrome Partitioning
   Surrounded Regions
-  Sum Root to Leaf Numbers
 
 Finished:
+  129. Sum Root to Leaf Numbers
   128. Longest Consecutive Sequence
   127. Word Ladder II
   126. Word Ladder
