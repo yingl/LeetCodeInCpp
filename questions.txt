@@ -14,9 +14,9 @@ Todo
   Word Break
   Copy List with Random Pointer
   Single Number II
-  Single Number
 
 Finished:
+  136. Single Number
   135. Candy
   134. Gas Station
   133. Clone Graph
