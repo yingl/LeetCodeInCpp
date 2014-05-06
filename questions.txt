@@ -12,9 +12,9 @@ Todo
   Linked List Cycle
   Word Break II
   Word Break
-  Copy List with Random Pointer
 
 Finished:
+  138. Copy List with Random Pointer
   137. Single Number II
   136. Single Number
   135. Candy
