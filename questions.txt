@@ -19,9 +19,9 @@ Todo
   Gas Station
   Clone Graph
   Palindrome Partitioning II
-  Palindrome Partitioning
 
 Finished:
+  131. Palindrome Partitioning
   130. Surrounded Regions
   129. Sum Root to Leaf Numbers
   128. Longest Consecutive Sequence
