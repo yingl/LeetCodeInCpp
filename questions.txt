@@ -18,9 +18,9 @@ Todo
   Candy
   Gas Station
   Clone Graph
-  Palindrome Partitioning II
 
 Finished:
+  132. Palindrome Partitioning II
   131. Palindrome Partitioning
   130. Surrounded Regions
   129. Sum Root to Leaf Numbers
