@@ -15,9 +15,9 @@ Todo
   Copy List with Random Pointer
   Single Number II
   Single Number
-  Candy
 
 Finished:
+  135. Candy
   134. Gas Station
   133. Clone Graph
   132. Palindrome Partitioning II
