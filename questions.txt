@@ -11,9 +11,9 @@ Todo
   Linked List Cycle II
   Linked List Cycle
   Word Break II
-  Word Break
 
 Finished:
+  139. Word Break
   138. Copy List with Random Pointer
   137. Single Number II
   136. Single Number
