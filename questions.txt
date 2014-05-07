@@ -8,7 +8,7 @@
 144 (X). Binary Tree Preorder Traversal
 143 (X). Reorder List
 142 (X). Linked List Cycle II
-141 (X). Linked List Cycle
+141. Linked List Cycle
 140 (X). Word Break II
 139. Word Break
 138. Copy List with Random Pointer
