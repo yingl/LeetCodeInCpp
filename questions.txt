@@ -1,7 +1,7 @@
 151. Reverse Words in a String
 150 (X). Evaluate Reverse Polish Notation
 149 (X). Max Points on a Line
-148 (X). Sort List
+148. Sort List
 147 (X). Insertion Sort List
 146 (X). LRU Cache
 145 (X). Binary Tree Postorder Traversal

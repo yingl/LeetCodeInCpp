@@ -15,14 +15,15 @@ using namespace std;
  struct ListNode {
   int val;
   ListNode *next;
-  ListNode(int x) : val(x), next(NULL) {}
+  ListNode(int x, ListNode *_next = NULL) : val(x), next(_next) {}
  };
 
 struct TreeNode {
   int val;
   TreeNode *left;
   TreeNode *right;
-  TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+  TreeNode(int x, TreeNode *_left = NULL, TreeNode *_right = NULL) : 
+      val(x), left(_left), right(_right) {}
  };
 
 struct UndirectedGraphNode {
