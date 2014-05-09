@@ -4,7 +4,7 @@
 148. Sort List
 147. Insertion Sort List
 146 (X). LRU Cache
-145 (X). Binary Tree Postorder Traversal
+145. Binary Tree Postorder Traversal
 144. Binary Tree Preorder Traversal
 143. Reorder List
 142. Linked List Cycle II
