@@ -1,6 +1,6 @@
 151. Reverse Words in a String
 150. Evaluate Reverse Polish Notation
-149 (X). Max Points on a Line
+149. Max Points on a Line
 148. Sort List
 147. Insertion Sort List
 146 (X). LRU Cache
