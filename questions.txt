@@ -3,7 +3,7 @@
 149. Max Points on a Line
 148. Sort List
 147. Insertion Sort List
-146 (X). LRU Cache
+146. LRU Cache
 145. Binary Tree Postorder Traversal
 144. Binary Tree Preorder Traversal
 143. Reorder List
