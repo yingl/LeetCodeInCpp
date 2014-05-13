@@ -9,7 +9,7 @@
 143. Reorder List
 142. Linked List Cycle II
 141. Linked List Cycle
-140 (X). Word Break II
+140. Word Break II
 139. Word Break
 138. Copy List with Random Pointer
 137. Single Number II
