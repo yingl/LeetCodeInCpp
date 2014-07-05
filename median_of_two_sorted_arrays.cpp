@@ -17,17 +17,35 @@ public:
       if (len_of_first_half > k) {
         if (array_a[mid_of_a] > array_b[mid_of_b]) {
           // 第k个数在a的前半部分和b的全部里找
-          return find_kth_number(array_a, start_of_a, mid_of_a - 1, array_b, start_of_b, end_of_b, k);
+          return find_kth_number(array_a, 
+              start_of_a,
+              mid_of_a - 1,
+              array_b,
+              start_of_b,
+              end_of_b,
+              k);
         }
         else {
           // 第k个数在b的前半部分和a的全部里找
-          return find_kth_number(array_a, start_of_a, end_of_a, array_b, start_of_b, mid_of_b - 1, k);
+          return find_kth_number(array_a,
+              start_of_a,
+              end_of_a,
+              array_b,
+              start_of_b,
+              mid_of_b - 1,
+              k);
         }
       }
       else {
         if (array_a[mid_of_a] > array_b[mid_of_b]) {
           // 第k个数在a的全部和b的后半部分找
-          return find_kth_number(array_a, start_of_a, end_of_a, array_b, mid_of_b + 1, end_of_b, k - (len_of_first_half_of_b));
+          return find_kth_number(array_a,
+              start_of_a,
+              end_of_a,
+              array_b,
+              mid_of_b + 1,
+              end_of_b,
+              k - (len_of_first_half_of_b));
         }
         else {
           // 第k个数在b的全部和a的后半部分找

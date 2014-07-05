@@ -3,7 +3,7 @@ public:
   void generate_combinations(vector<int> &numbers,
       int index,
       int count,
-      vector<int> combination,
+      vector<int> &combination,
       vector<vector<int> > &combinations) {
     if (0 == count) {
       combinations.push_back(combination);
